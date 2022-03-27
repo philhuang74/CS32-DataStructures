@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2DD84C3B-E0EB-4B32-8EAA-92F570B4F38B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "655AEBF7-C3F6-4A2D-92ED-1B7AEB4E57B4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SuperPeachSisters/Actor.h"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "240"
+            endingLineNumber = "240"
+            landmarkName = "Shell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "655AEBF7-C3F6-4A2D-92ED-1B7AEB4E57B4 - ade73a88533d5385"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shell::~Shell()"
+                  moduleName = "SuperPeachSisters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laetitiahuang/Desktop/Personal/Projects/Data_Structures/SuperPeachSisters/SuperPeachSisters/Actor.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "655AEBF7-C3F6-4A2D-92ED-1B7AEB4E57B4 - ade73a88533d5385"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shell::~Shell()"
+                  moduleName = "SuperPeachSisters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laetitiahuang/Desktop/Personal/Projects/Data_Structures/SuperPeachSisters/SuperPeachSisters/Actor.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "655AEBF7-C3F6-4A2D-92ED-1B7AEB4E57B4 - ade73a88533d5385"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Shell::~Shell()"
+                  moduleName = "SuperPeachSisters"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/laetitiahuang/Desktop/Personal/Projects/Data_Structures/SuperPeachSisters/SuperPeachSisters/Actor.h"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "240"
+                  endingLineNumber = "240"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
